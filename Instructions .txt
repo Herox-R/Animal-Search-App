@@ -1,0 +1,3 @@
+1.Use The AnimalDatabase for the Database.
+2.Use NetBean for the Java Applications. 
+3.Server Application is ran first and then the Client Application After.
