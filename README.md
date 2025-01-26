@@ -13,4 +13,4 @@ The app is a client-server application that allows users to search, add, or dele
 - ServerApplication: This is the backend that manages the data. It stores animal information in a database and responds to requests from the client, like searching for an animal or updating records.
 
 # Author 
--Sylvester N
+- Sylvester N
